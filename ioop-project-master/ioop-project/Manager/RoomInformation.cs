@@ -156,5 +156,20 @@ namespace ioop_project.Manager
         {
 
         }
+
+        private void guna2TextBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2HtmlLabel6_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2PictureBox7_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

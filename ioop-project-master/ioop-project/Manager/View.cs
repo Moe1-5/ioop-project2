@@ -21,5 +21,10 @@ namespace ioop_project.Manager
         {
 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

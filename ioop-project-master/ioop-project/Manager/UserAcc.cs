@@ -16,5 +16,15 @@ namespace ioop_project.Manager
         {
             InitializeComponent();
         }
+
+        private void guna2HtmlLabel9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
