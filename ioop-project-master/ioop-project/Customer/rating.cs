@@ -8,21 +8,21 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ioop_project.Manager
+namespace ioop_project.Customer
 {
-    public partial class Schedule : Form
+    public partial class rating : Form
     {
-        public Schedule()
+        public rating()
         {
             InitializeComponent();
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
+        private void guna2HtmlLabel3_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void guna2DateTimePicker1_ValueChanged(object sender, EventArgs e)
+        private void guna2TextBox1_TextChanged(object sender, EventArgs e)
         {
 
         }

@@ -52,6 +52,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Customer\client_reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\client_reservation.Designer.cs">
+      <DependentUpon>client_reservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\rating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\rating.Designer.cs">
+      <DependentUpon>rating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\Rooms_results.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\Rooms_results.Designer.cs">
+      <DependentUpon>Rooms_results.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\room_search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\room_search.Designer.cs">
+      <DependentUpon>room_search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer\Update_customer_profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer\Update_customer_profile.Designer.cs">
+      <DependentUpon>Update_customer_profile.cs</DependentUpon>
+    </Compile>
     <Compile Include="HouseKeeping\RoomCleaning.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +144,21 @@
     <Compile Include="theRef.Designer.cs">
       <DependentUpon>theRef.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Customer\client_reservation.resx">
+      <DependentUpon>client_reservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\rating.resx">
+      <DependentUpon>rating.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\Rooms_results.resx">
+      <DependentUpon>Rooms_results.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\room_search.resx">
+      <DependentUpon>room_search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer\Update_customer_profile.resx">
+      <DependentUpon>Update_customer_profile.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Manager\RoomInformation.resx">
       <DependentUpon>RoomInformation.cs</DependentUpon>
     </EmbeddedResource>
@@ -164,5 +209,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
