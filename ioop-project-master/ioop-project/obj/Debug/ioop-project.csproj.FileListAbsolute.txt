@@ -1,0 +1,13 @@
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop-project.csproj.AssemblyReference.cache
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Manager.RoomInformation.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Manager.Schedule.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Manager.UserAcc.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Manager.View.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Properties.Resources.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Receptionist2.Bill.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Receptionist2.check_in.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Receptionist2.reservation.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.signup.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.theRef.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop-project.csproj.GenerateResource.cache
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop-project.csproj.CoreCompileInputs.cache

@@ -3,56 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|c:\\users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|c:\\users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\useracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\useracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\useracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\useracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\receptionist2\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\receptionist2\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\receptionist2\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\receptionist2\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\receptionist2\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\receptionist2\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\receptionist2\\check-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\receptionist2\\check-in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\useracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\useracc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\housekeeping\\roomcleaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\housekeeping\\roomcleaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\theref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\theref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\manager\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\manager\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\userdbcontext_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D889D8FF-C018-4D33-B974-FD2BF054314C}|ioop-project\\ioop-project.csproj|solutionrelative:ioop-project\\userdbcontext_log.ldf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,37 +78,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserAcc.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\UserAcc.cs",
-              "RelativeDocumentMoniker": "ioop-project\\Manager\\UserAcc.cs",
-              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\UserAcc.cs",
-              "RelativeToolTip": "ioop-project\\Manager\\UserAcc.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAswBoAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Room.cs",
+              "RelativeDocumentMoniker": "ioop-project\\Room.cs",
+              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Room.cs",
+              "RelativeToolTip": "ioop-project\\Room.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwDcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:49:29.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Schedule.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\Schedule.cs",
-              "RelativeDocumentMoniker": "ioop-project\\Manager\\Schedule.cs",
-              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\Schedule.cs [Design]",
-              "RelativeToolTip": "ioop-project\\Manager\\Schedule.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:14:04.494Z"
+              "WhenOpened": "2024-07-19T12:15:54.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RoomInformation.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\RoomInformation.cs",
-              "RelativeDocumentMoniker": "ioop-project\\Manager\\RoomInformation.cs",
-              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\RoomInformation.cs [Design]",
-              "RelativeToolTip": "ioop-project\\Manager\\RoomInformation.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Program.cs",
+              "RelativeDocumentMoniker": "ioop-project\\Program.cs",
+              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Program.cs",
+              "RelativeToolTip": "ioop-project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:56:55.06Z"
+              "WhenOpened": "2024-07-18T08:56:58.051Z"
             },
             {
               "$type": "Document",
@@ -115,75 +110,85 @@
               "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Receptionist2\\Bill.cs [Design]",
               "RelativeToolTip": "ioop-project\\Receptionist2\\Bill.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:24:11.529Z"
+              "WhenOpened": "2024-07-18T08:38:14.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "signup.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\signup.cs",
-              "RelativeDocumentMoniker": "ioop-project\\Manager\\signup.cs",
-              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\signup.cs [Design]",
-              "RelativeToolTip": "ioop-project\\Manager\\signup.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:57:41.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserAcc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\UserAcc.cs",
-              "RelativeDocumentMoniker": "ioop-project\\Manager\\UserAcc.cs",
-              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\UserAcc.cs [Design]",
-              "RelativeToolTip": "ioop-project\\Manager\\UserAcc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:57:44.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "View.cs [Design]",
               "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\View.cs",
               "RelativeDocumentMoniker": "ioop-project\\Manager\\View.cs",
               "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\View.cs [Design]",
               "RelativeToolTip": "ioop-project\\Manager\\View.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:24:05.821Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-18T08:38:05.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\User.cs",
+              "RelativeDocumentMoniker": "ioop-project\\User.cs",
+              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\User.cs",
+              "RelativeToolTip": "ioop-project\\User.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwGoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T16:33:38.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomInformation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "ioop-project\\Manager\\RoomInformation.cs",
+              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\RoomInformation.cs [Design]",
+              "RelativeToolTip": "ioop-project\\Manager\\RoomInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:36:28.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "reservation.cs [Design]",
               "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Receptionist2\\reservation.cs",
               "RelativeDocumentMoniker": "ioop-project\\Receptionist2\\reservation.cs",
               "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Receptionist2\\reservation.cs [Design]",
               "RelativeToolTip": "ioop-project\\Receptionist2\\reservation.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:24:30.967Z"
+              "WhenOpened": "2024-07-18T08:38:34.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "check-in.cs [Design]",
               "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Receptionist2\\check-in.cs",
               "RelativeDocumentMoniker": "ioop-project\\Receptionist2\\check-in.cs",
               "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Receptionist2\\check-in.cs [Design]",
               "RelativeToolTip": "ioop-project\\Receptionist2\\check-in.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:24:27.56Z"
+              "WhenOpened": "2024-07-18T08:38:17.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAcc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\UserAcc.cs",
+              "RelativeDocumentMoniker": "ioop-project\\Manager\\UserAcc.cs",
+              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\UserAcc.cs [Design]",
+              "RelativeToolTip": "ioop-project\\Manager\\UserAcc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:37:58.769Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "RoomInformation.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\RoomInformation.cs",
-              "RelativeDocumentMoniker": "ioop-project\\Manager\\RoomInformation.cs",
-              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\RoomInformation.cs",
-              "RelativeToolTip": "ioop-project\\Manager\\RoomInformation.cs",
-              "ViewState": "AQIAAJwAAAAAAAAAAAAswKsAAAAAAAAA",
+              "Title": "Schedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\Schedule.cs",
+              "RelativeDocumentMoniker": "ioop-project\\Manager\\Schedule.cs",
+              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\Schedule.cs [Design]",
+              "RelativeToolTip": "ioop-project\\Manager\\Schedule.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:30:34.601Z"
+              "WhenOpened": "2024-07-18T08:37:24.484Z"
             },
             {
               "$type": "Document",
@@ -194,30 +199,41 @@
               "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\HouseKeeping\\RoomCleaning.cs [Design]",
               "RelativeToolTip": "ioop-project\\HouseKeeping\\RoomCleaning.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:56:50.361Z"
+              "WhenOpened": "2024-07-18T08:37:20.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "View.cs",
-              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\View.cs",
-              "RelativeDocumentMoniker": "ioop-project\\Manager\\View.cs",
-              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\View.cs",
-              "RelativeToolTip": "ioop-project\\Manager\\View.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBoAAAAAAAAA",
+              "Title": "signup.cs",
+              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\signup.cs",
+              "RelativeDocumentMoniker": "ioop-project\\Manager\\signup.cs",
+              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\signup.cs",
+              "RelativeToolTip": "ioop-project\\Manager\\signup.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAswEgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:25:42.461Z"
+              "WhenOpened": "2024-07-18T04:53:25.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "theRef.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\theRef.cs",
-              "RelativeDocumentMoniker": "ioop-project\\theRef.cs",
-              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\theRef.cs [Design]",
-              "RelativeToolTip": "ioop-project\\theRef.cs [Design]",
+              "Title": "signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\signup.cs",
+              "RelativeDocumentMoniker": "ioop-project\\Manager\\signup.cs",
+              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\Manager\\signup.cs [Design]",
+              "RelativeToolTip": "ioop-project\\Manager\\signup.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T19:20:42.929Z"
+              "WhenOpened": "2024-07-17T16:43:25.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDBContext_log.ldf",
+              "DocumentMoniker": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\UserDBContext_log.ldf",
+              "RelativeDocumentMoniker": "ioop-project\\UserDBContext_log.ldf",
+              "ToolTip": "C:\\Users\\albad\\source\\repos\\ioop-project2\\ioop-project-master\\ioop-project\\UserDBContext_log.ldf",
+              "RelativeToolTip": "ioop-project\\UserDBContext_log.ldf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQISURBVDhPrVRLTyVFFP6qum/fJ3B5XCGIDgOTDGRGjSbGx8KElRtXJuyNKxeu/FG6NxMzCxeTGB8L0RlQhjdcLtDc2/d9\u002B11V3Z5qQCGz9euunOquOl\u002Bd\u002Bs6pwv\u002BGJPkYSv3E1tfXjao1fC1XSMsFZvAoiq9nWEB\u002BBlG\u002BRnbs\u002Bt\u002BrUEEkQxUPv//6C8NbWXnAvvpy7eHjleWPquOle1Y\u002BZ4lIMFqOXokQFfhpjfl4HRMTE7BME2AcSPUMepIErabTd5zL54ebLzaePPmubb776MHnC/Mzn0xMlpcKxWJeKc4YFJKoA8\u002BLWTdU6LMx3L\u002B3ACuXR0JkaZpmNqFFh0PfloohSKN9CrhtrizNfTNVmypP1ar5SnWCGVYZmlD2d9GzT1Boj5AzilhdfgMpyyESNCYTIgUMI8XW37vodAfVw2YvpyXgwahfLZdSa7xaQr5YgmlZMHMFoLIKOf0pKvc\u002Bw3vvPEapVMB\u002BY4Bnv5/j6S\u002BneLZxjsEoRhRLCCURjyLNR4Sey\u002BNhg8nhMVO\u002BTVvtQoUO4B/AcDch\u002Btu4bLYogQrT1QIW58exvFDFm3Okac4E05reAhcigvDbRNYkojaSuJ8R3pCnKoQi8bVmTD\u002BkMOPaag1TpHpMD16Dp4r0kDElNSCrW0h9j6xPZIIycKWXdlLUtK\u002B2Ny3JBq/ZCFx/6zLQ6\u002Bv3xhiGQi5tQ7h1tBwHQkpMVCzMzZSxMDuGuVoZ3OCUPgap3a9xVwBNlZEDkSzCNx/BmlvDysNVWiCPg9MBfn1xQYlp4LdNG31KhKQd3gYnFbKOjuo2TC5hJqQlRdhudyCERKlooTZZxvxMBbNkOdfx3PW8ijD79\u002B/eM0taUzmYCIQBP4wxdH0YTGKsyFCtmKiQDcIIUSSyurzB1TmilrL/yHQvEhwdr4gG1evJhYPnf\u002B1ge3cPh8dHyfHJoTqsH8vtvT1pt1rK992EUp8RmDopN9u\u002BjVgIOJ0eXu67OLH/hKIofGHIQHBXKOaSn9QZ9j3XDrzhwKQDpP3MrCayVN9FJefhrekTLCgbo6kubY9jzx5zdu38042G\u002BYPjl89BHLGvYqTDth0P6TTQlpViTCmqKUkXAp0GHS2jBQyaXDE91IpdzJe7mC13MJUfimlr1Cqry916a2er3jrYsg/PXtpH25c4O8vOHqfrbOC6YTwahQnZNPBCBH5EEdH1FeuLAKlQPBWSkUVAtexanHtoNq8azgLi0Zdolhlj7YP775s8KpFkBS8AH40ket0heu0\u002B\u002Bh0v7Q9E0ne57Hl5edGz/nB6\u002BLnjGDtHzR6RvQrjw7cX98IwWep15Zxju8bpcc9sNHq4OAvZpcNTp18Q3VE\u002BaPmTYaOTfrt1HvyoKot2vV6/W9EZgH8A85l/scW1VBYAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-17T16:39:58.098Z"
             }
           ]
         }

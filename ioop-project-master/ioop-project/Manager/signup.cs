@@ -46,5 +46,28 @@ namespace ioop_project
         {
 
         }
+
+        private void singUpButton_Click(object sender, EventArgs e)
+        {
+
+            string firstName = firstNameBox.Text;
+            string lastName = lastNameBox.Text;
+            string email = emailBox.Text;
+            if (int.TryParse(phoneBox.Text, out int phone))
+            {
+                return;
+            }
+            if(int.TryParse(idNumberBox.Text, out int id))
+            {
+                return;
+            }
+                   
+
+        }
+
+        private void panel8_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
