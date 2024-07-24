@@ -1,4 +1,5 @@
 C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop-project.csproj.AssemblyReference.cache
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Customer.room_search.resources
 C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Manager.RoomInformation.resources
 C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Manager.Schedule.resources
 C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Manager.UserAcc.resources
@@ -11,3 +12,12 @@ C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\D
 C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.theRef.resources
 C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop-project.csproj.GenerateResource.cache
 C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop-project.csproj.CoreCompileInputs.cache
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\bin\Debug\ioop-project.exe.config
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\bin\Debug\ioop-project.exe
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\bin\Debug\ioop-project.pdb
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\bin\Debug\Guna.UI2.dll
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop-pro.E0FA5DE7.Up2Date
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop-project.exe
+C:\Users\albad\source\rpos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop-project.pdb
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Customer.client_reservation.resources
+C:\Users\albad\source\repos\ioop-project2\ioop-project-master\ioop-project\obj\Debug\ioop_project.Customer.Rooms_results.resources

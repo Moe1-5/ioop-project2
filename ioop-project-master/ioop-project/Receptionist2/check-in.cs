@@ -21,5 +21,10 @@ namespace ioop_project.Receptionist2
         {
 
         }
+
+        private void guna2Button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
